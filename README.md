@@ -5,8 +5,8 @@ Oi, eu sou Joás, um estudante de programação Web Fullstack com uma paixão po
 
 Conecte-se comigo:  
 [YouTube](https://youtube.com/@bincode-programacao?si=ZKvUd2eKBbshMHAU)  
-![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Texto Alternativo" width="100" height="100">
+[![Meu Canal](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://youtube.com/@bincode-programacao?si=ZKvUd2eKBbshMHAU)
+
 
 ## linguagens e ferramentas:
 
