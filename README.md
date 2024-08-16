@@ -1,22 +1,23 @@
-# Oi!
+# Oi! 👋
 
-Eu me chamo Joás, sou um estudante de programação Web Fullstack com uma paixão por tecnologia! Desenvolvo projetos usando **apenas** um celular e sou o criador do canal **BINcode | Programação**.
+Eu me chamo **Joás Marcelo**, E sou um estudante de programação Web Fullstack com uma grande paixão por tecnologia! 🚀
 
+Desenvolvo projetos utilizando **apenas** um celular e sou o criador do canal **[BINcode | Programação](https://da.gd/BINcode)** no YouTube, onde compartilho dicas e tutoriais sobre programação.
 
-## Conecte-se comigo:  
- [Meu canal no YouTube.](https://youtube.com/@bincode-programacao?si=ZKvUd2eKBbshMHAU)  
+### Conecte-se comigo:
+- [Canal BINcode no YouTube](https://da.gd/BINcode)
 
-
-## linguagens:
-
+### Linguagens que estou aprendendo:
 - HTML
 - CSS
 - JavaScript
 - Python
 
-## Apps:
-
-- Termux 
+### Ferramentas que uso:
+- Termux
 - Acode
 - Pydroid 3
 
+
+
+### Obrigado por visitar meu perfil! 😊
