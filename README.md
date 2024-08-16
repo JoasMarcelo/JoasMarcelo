@@ -4,7 +4,7 @@ Eu me chamo Joás, sou um estudante de programação Web Fullstack com uma paix�
 
 
 ## Conecte-se comigo:  
- [Meu canal.](https://youtube.com/@bincode-programacao?si=ZKvUd2eKBbshMHAU)  
+ [Meu canal no YouTube!.](https://youtube.com/@bincode-programacao?si=ZKvUd2eKBbshMHAU)  
 
 
 ## linguagens:
