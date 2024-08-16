@@ -1,4 +1,4 @@
-# Oi 😎
+# Oi!
 
 Oi, eu sou Joás, um estudante de programação Web Fullstack com uma paixão por tecnologia! Desenvolvo projetos usando o Acode e sou o criador do canal BINcode | Programação.
 
