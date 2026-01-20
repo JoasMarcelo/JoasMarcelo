@@ -40,5 +40,5 @@ Sou estudante de computação com foco em **desenvolvimento back-end**.
 ## 📫 Onde me encontrar
 
 - 🐙 GitHub: [github.com/JoasMarcelo](https://github.com/JoasMarcelo)
-- Instagram: https://www.instagram.com/_joas_m_
+- Instagram: [_joas_m_](https://www.instagram.com/_joas_m_)
 - 📧 Email: joas.mspq.ofc@gmail.com
