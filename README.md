@@ -1,33 +1,43 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Ilustração de computador">
+![](https://komarev.com/ghpvc/?username=JoasMarcelo&color=006bed)
 
-## Olá! 👋 Me chamo Joas Marcelo
+#  Olá! 👋 Me chamo Joás Marcelo
 
-**Estudante de Python**  
+Sou estudante de computação com foco em **desenvolvimento back-end**, interessado em fundamentos sólidos, lógica, estrutura de dados e construção de software bem estruturado.
 
-Atualmente estudando programação com foco em Python e construindo meus primeiros projetos para desenvolver minha base técnica e evoluir como dev.
+---
+## 🎓 Formação e Estudos
 
-### 🚀 Tecnologias que estou estudando
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="50" alt="Python"/>
-</div>
+| Curso                         | Instituição        | Detalhes                              |
+| :---------------------------- | :----------------- | :------------------------------------ |
+| **Python Fundamental I e II** | *Aprenda Mais*     | Turma 2026A                           |
+| **Computação: Fundamentos**   | *IFRS*             | Turma 2026A                           |
+| **CC50 (CS50)**               | *Fundação Estudar* | Algoritmos e pensamento computacional |
 
-<br>
+---
+## 🚀 Tecnologias & Conhecimentos
 
-### 📫 Onde me encontrar
-<div align="center">
-  <a href="https://www.instagram.com/_joas_m_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+### 💻 Linguagens de Programação (Aprendendo)
 
-<br>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 
-### 📊 Minha atividade no GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoasMarcelo&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoasMarcelo&theme=gruvbox&hide_border=true&locale=pt-br"/>
-</div>
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoasMarcelo&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br"/>
-</div>
+### 🎨 Organização
+
+![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian)
+
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/JoasMarcelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoasMarcelo&theme=dark&show_icons=true" />
+</a>
+
+---
+
+## 📫 Onde me encontrar
+
+- 🐙 GitHub: [github.com/JoasMarcelo](https://github.com/JoasMarcelo)
+- 📧 Email: joas.mspq.ofc@gmail.com
