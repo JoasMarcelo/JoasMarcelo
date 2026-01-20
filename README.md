@@ -2,7 +2,7 @@
 
 #  Olá! 👋 Me chamo Joás Marcelo
 
-Sou estudante de computação com foco em **desenvolvimento back-end**, interessado em fundamentos sólidos, lógica, estrutura de dados e construção de software bem estruturado.
+Sou estudante de computação com foco em **desenvolvimento back-end**.
 
 ---
 ## 🎓 Formação e Estudos
