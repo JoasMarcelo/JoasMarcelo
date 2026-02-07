@@ -50,6 +50,6 @@
 ## Estatísticas
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=dark&hide_border=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=dark&hide_border=true" height="150" />
+<br><br>
 </div>
-
