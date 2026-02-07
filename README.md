@@ -10,7 +10,7 @@
 <a href="https://instagram.com/_joas_m_">
   <img src="https://img.shields.io/badge/Instagram-FD02CD?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:joas.marcelo.spq@gmail.com">
+<a href="mailto:joas.mspq.ofc@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4235?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
