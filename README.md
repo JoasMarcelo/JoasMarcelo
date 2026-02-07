@@ -1,63 +1,56 @@
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JoasMarcelo&color=006bed" />
+
+# Joás Marcelo
+**Software Engineering Student — Systems & High-Performance Computing**
+
+<br>
+
+<a href="https://instagram.com/_joas_m_">
+  <img src="https://img.shields.io/badge/Instagram-222222?logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:joas.marcelo.spq@gmail.com">
+  <img src="https://img.shields.io/badge/Email-222222?logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## Formação
+
+| Curso                         | Instituição        | Observações                              |
+|------------------------------|-------------------|------------------------------------------|
+| Python Fundamental I e II    | Aprenda Mais      | Turma 2026A                              |
+| Computação: Fundamentos      | IFRS              | Turma 2026A                              |
+| CS50 (CC50)                  | Fundação Estudar  | Algoritmos e pensamento computacional    |
+
+---
+
+## Tecnologias e Ferramentas
+
+**Linguagens**
   
-  ![](https://komarev.com/ghpvc/?username=JoasMarcelo&color=006bed)
+![Python](https://img.shields.io/badge/Python-1f1f1f?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-1f1f1f?logo=c&logoColor=white)
 
-  # 💫 Olá! Me chamo Joás Marcelo
+**Ferramentas**
 
-  ### 🚀 Estudante com foco em Engenharia de Software e Sistemas de Alta Performance
-  _(Learning High-performance systems software engineering)_
-
-  <br>
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_joas_m_)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joas.marcelo.spq@gmail.com)
-
-</div>
+![Linux](https://img.shields.io/badge/Linux-1f1f1f?logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f1f1f?logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-1f1f1f?logo=obsidian&logoColor=white)
 
 ---
 
-## 🎓 Formação e Estudos
-
-| Curso                         | Instituição        | Detalhes                              |
-| :---------------------------- | :----------------- | :------------------------------------ |
-| **Python Fundamental I e II** | *Aprenda Mais*     | Turma 2026A                           |
-| **Computação: Fundamentos**   | *IFRS*             | Turma 2026A                           |
-| **CC50 (CS50)**               | *Fundação Estudar* | Algoritmos e pensamento computacional |
-
----
-
-## 🚀 Tecnologias & Conhecimentos
-
-### 💻 Linguagens (Aprendendo) & Ferramentas
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian)
-
----
-
-## 📊 GitHub Stats
+## Estatísticas
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoasMarcelo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=tokyonight&hide_border=false" height="150" alt="Streak Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=tokyonight&hide_border=true" height="150" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoasMarcelo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+<img src="https://github-contributor-stats.vercel.app/api?username=JoasMarcelo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
-  <br><br>
-
-  ### 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=JoasMarcelo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed" />
-
-</div>
-
----
-
-<div align="center">
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JoasMarcelo&icon=0&color=0" alt="Visitor Count" />
-  </a>
 </div>
