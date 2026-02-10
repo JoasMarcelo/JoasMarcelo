@@ -28,7 +28,7 @@ Dedicado ao desenvolvimento de sistemas de alta performance e algoritmos
 
 **Ambiente & Ferramentas**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-0E0E11?style=for-the-badge&logo=zedindustries&logoColor=white) ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-5F9A3B?style=for-the-badge&logo=neovim&logoColor=white) ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 **Organização & Gestão**
 
