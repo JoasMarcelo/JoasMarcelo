@@ -16,15 +16,15 @@ Dedicado ao desenvolvimento de sistemas de alta performance e algoritmos
 
 ### Formação & Estudos Atuais
 * **CS50 (CC50):** Ciência da Computação (Algoritmos, C, Memória).
-* **Rust Programming:** Foco em performance e concorrência.
+* *C Programming:** Foco em performance e concorrência.
 
 ---
 
 ### Tech Stack
 
-**Linguagens (Aprendendo | Foco em Rust 🦀)**
+**Linguagens (Aprendendo)**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Ambiente & Ferramentas**
 
