@@ -16,7 +16,7 @@ Dedicado ao desenvolvimento de sistemas de alta performance e algoritmos
 
 ### Formação & Estudos Atuais
 * **CS50 (CC50):** Ciência da Computação (Algoritmos, C, Memória).
-* *C Programming:** Foco em performance e concorrência.
+* **C Programming:** Foco em performance e concorrência.
 
 ---
 
