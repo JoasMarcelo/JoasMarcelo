@@ -28,8 +28,7 @@ Dedicado ao desenvolvimento de sistemas de alta performance e algoritmos
 
 **Ambiente & Ferramentas**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-5F9A3B?style=for-the-badge&logo=neovim&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-3C3C3C?style=for-the-badge&logo=tmux&logoColor=green)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Tmux](https://img.shields.io/badge/Tmux-3C3C3C?style=for-the-badge&logo=tmux&logoColor=green) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-5F9A3B?style=for-the-badge&logo=neovim&logoColor=white)
 ---
 
 ### Estatísticas
