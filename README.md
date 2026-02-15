@@ -35,6 +35,6 @@ Dedicado ao desenvolvimento de sistemas de alta performance e algoritmos
 
 <img src="https://komarev.com/ghpvc/?username=JoasMarcelo&style=flat-square&color=blue" alt="Views" />
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=dark&hide_border=true" height="150" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=tokyonight&hide_border=true" height="150" />
 <br><br>
 </div>
