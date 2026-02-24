@@ -1,8 +1,8 @@
 # **Joás Marcelo**
 
-**Software Engineer (Student) | Systems & High-Performance Computing**
+**Software Engineer (Student)**
 
-Dedicado ao desenvolvimento de sistemas de alta performance e algoritmos
+Dedicado ao desenvolvimento de sistemas
 
 <a href="https://instagram.com/_joas_m_">
   <img src="https://img.shields.io/badge/Instagram-FD02CD?style=for-the-badge&logo=instagram&logoColor=white" />
