@@ -15,16 +15,15 @@ Dedicado ao desenvolvimento de sistemas
 ---
 
 ### Formação & Estudos Atuais
-* **CS50 (CC50):** Ciência da Computação (Algoritmos, C, Memória).
-* **C Programming:** Foco em performance e concorrência.
-
+* **CS50 (CC50):** Introdução a Ciência da Computação (Algoritmos, C, Memória).
+* **OSSU (Open Source Society University):** Ciência da Computação
 ---
 
 ### Tech Stack
 
 **Linguagens (Aprendendo)**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white)
 
 **Ambiente & Ferramentas**
 
