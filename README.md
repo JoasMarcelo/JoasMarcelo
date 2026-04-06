@@ -16,7 +16,7 @@ Dedicado ao desenvolvimento de sistemas
 
 ### Formação & Estudos Atuais
 * **CS50 (CC50):** Introdução a Ciência da Computação (Algoritmos, C, Memória).
-* **OSSU (Open Source Society University):** Ciência da Computação
+* **OSSU (Open Source Society University):** Ciência da Computação.
 ---
 
 ### Tech Stack
