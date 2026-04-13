@@ -23,7 +23,7 @@ Dedicado ao desenvolvimento de sistemas
 
 **Linguagens (Aprendendo)**
 
-![Rust](https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 
 **Ambiente & Ferramentas**
 
