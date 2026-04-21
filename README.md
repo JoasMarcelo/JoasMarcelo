@@ -1,8 +1,6 @@
 # **Joás Marcelo**
 
-**Software Engineer (Student)**
-
-Dedicado ao desenvolvimento de sistemas
+Dedicado ao desenvolvimento de sistemas.
 
 <a href="https://instagram.com/_joas_m_">
   <img src="https://img.shields.io/badge/Instagram-FD02CD?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -26,14 +24,12 @@ Dedicado ao desenvolvimento de sistemas
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 
 **Ambiente & Ferramentas**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Tmux](https://img.shields.io/badge/Tmux-3C3C3C?style=for-the-badge&logo=tmux&logoColor=green) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-5F9A3B?style=for-the-badge&logo=neovim&logoColor=white)
+  
+![Arch Linux](https://img.shields.io/badge/Archlinux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white) ![Ghostty](https://img.shields.io/badge/Ghostty-3550f2?style=for-the-badge&logo=ghostty&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-5F9A3B?style=for-the-badge&logo=neovim&logoColor=white) 
 ---
 
 ### Estatísticas
 
 <img src="https://komarev.com/ghpvc/?username=JoasMarcelo&style=flat-square&color=blue" alt="Views" />
-<div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JoasMarcelo&theme=tokyonight&hide_border=true" height="150" />
-<br><br>
-</div>
+
+![JoasMarcelo's Stats](https://github-readme-stats.vercel.app/api?username=JoasMarcelo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
