@@ -21,7 +21,7 @@ Dedicado ao desenvolvimento de sistemas.
 
 **Linguagens (Aprendendo)**
 
-![C++](https://img.shields.io/badge/C++-283593?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Ambiente & Ferramentas**
   
