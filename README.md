@@ -1,6 +1,6 @@
 # **Joás Marcelo**
 
-Dedicado ao desenvolvimento de sistemas.
+Dedicado à **computação.**
 
 <a href="https://instagram.com/_joas_m_">
   <img src="https://img.shields.io/badge/Instagram-FD02CD?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -26,6 +26,3 @@ Dedicado ao desenvolvimento de sistemas.
 ### Estatísticas
 
 <img src="https://komarev.com/ghpvc/?username=JoasMarcelo&style=flat-square&color=blue" alt="Views" />
-
-![JoasMarcelo's Stats](https://github-readme-stats.vercel.app/api?username=JoasMarcelo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
