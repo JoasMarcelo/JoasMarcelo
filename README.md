@@ -13,15 +13,10 @@ Dedicado ao desenvolvimento de sistemas.
 ---
 
 ### Formação & Estudos Atuais
-* **CS50 (CC50):** Introdução a Ciência da Computação (Algoritmos, C, Memória).
-* **OSSU (Open Source Society University):** Ciência da Computação.
+* **OSSU - Open Source Society University (Em andamento)**
 ---
 
 ### Tech Stack
-
-**Linguagens (Aprendendo)**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Ambiente & Ferramentas**
   
@@ -33,3 +28,4 @@ Dedicado ao desenvolvimento de sistemas.
 <img src="https://komarev.com/ghpvc/?username=JoasMarcelo&style=flat-square&color=blue" alt="Views" />
 
 ![JoasMarcelo's Stats](https://github-readme-stats.vercel.app/api?username=JoasMarcelo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
