@@ -20,7 +20,7 @@ Dedicado à **computação.**
 
 **Ambiente & Ferramentas**
   
-![Arch Linux](https://img.shields.io/badge/Archlinux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white) ![Ghostty](https://img.shields.io/badge/Ghostty-3550f2?style=for-the-badge&logo=ghostty&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-5F9A3B?style=for-the-badge&logo=neovim&logoColor=white) 
+![Arch Linux](https://img.shields.io/badge/Archlinux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white) ![Ghostty](https://img.shields.io/badge/Ghostty-3550f2?style=for-the-badge&logo=ghostty&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-0b0b0b?style=for-the-badge&logo=zedindustries&logoColor=white) 
 ---
 
 ### Estatísticas
