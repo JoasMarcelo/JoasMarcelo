@@ -15,7 +15,7 @@ Dedicado à **computação.**
 
 **Ambiente & Ferramentas**
   
-![Arch Linux](https://img.shields.io/badge/Archlinux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=21D789) 
+![Arch Linux](https://img.shields.io/badge/Archlinux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=21D789) !
 ---
 
 ### Estatísticas
