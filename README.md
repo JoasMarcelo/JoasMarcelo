@@ -16,11 +16,14 @@ Dedicado à **computação.**
 **Linguagens**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge)
+
+
+
 
 **Ambiente & Ferramentas**
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=21D789)
-
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-%23000.svg?style=for-the-badge&logo=clion&logoColor=white)
 ---
 
 ### Estatísticas
