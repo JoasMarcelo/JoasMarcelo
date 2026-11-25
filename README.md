@@ -15,8 +15,7 @@ Dedicado à **computação.**
 
 **Linguagens**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge)
+![C#](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c#&logoColor=white)
 
 
 
