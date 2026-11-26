@@ -15,16 +15,14 @@ Dedicado à **computação.**
 
 **Linguagens**
 
-![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Ambiente & Ferramentas**
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ridér](https://img.shields.io/badge/Rider-%23000.svg?style=for-the-badge&logo=rider&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+
 ---
 
 ### Estatísticas
 
-<img src="https://komarev.com/ghpvc/?username=JoasMarcelo&style=for-the-badge&color=00599C" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=JoasMarcelo&style=for-the-badge&color=512BD4" alt="Views" />
